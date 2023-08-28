@@ -4,12 +4,19 @@ This Project is a Pytorch implementation of HDRLFI
 
 ## Requirements
 ** Python  3.7.13
+
 ** Pytorch  1.7.0+cu110
+
 ** Torchvision  0.8.1+cu110
+
 ** numpy  1.16.0 
+
 ** OpenEXR  1.3.7
+
 ** pyexr  0.3.10
+
 ** h5py  3.7.0
+
 ** Matlab  2017b (for training/test data generation and evaluation)
 
 ## Usage
