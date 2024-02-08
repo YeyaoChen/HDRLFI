@@ -28,7 +28,7 @@ You can use the released code to train your own model or test the pre-trained mo
 
 ## Example of our benchmark dataset
 
-The benchmark dataset can be downloaded  via Baidu Drive：链接：https://pan.baidu.com/s/1dnqVNBfZl6ok1JpDLW7Qxg (key: wasd)
+The benchmark dataset can be downloaded  via Baidu Drive：https://pan.baidu.com/s/1dnqVNBfZl6ok1JpDLW7Qxg (key: wasd)
 
 ![数据库场景简介](https://github.com/YeyaoChen/HDRLFI/assets/75985087/f9975ae2-0119-4f62-88b0-879acb910f34)
 
