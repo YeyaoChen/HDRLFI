@@ -28,12 +28,14 @@ You can use the released code to train your own model or test the pre-trained mo
 
 ## Example of our benchmark dataset
 
-The benchmark dataset will be released soon for the research community.
+The benchmark dataset can be downloaded  via Baidu Drive：链接：https://pan.baidu.com/s/1dnqVNBfZl6ok1JpDLW7Qxg (key: wasd)
 
 ![数据库场景简介](https://github.com/YeyaoChen/HDRLFI/assets/75985087/f9975ae2-0119-4f62-88b0-879acb910f34)
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you use this code for your research, please cite our paper:
+Y. Chen, G. Jiang, M. Yu, C. Jin, H. Xu, Y.-S. Ho, HDR light field imaging of dynamic scenes: a learning-based method and a bench
+mark dataset, Pattern Recognition (2024), doi: https://doi.org/10.1016/j.patcog.2024.110313.
 
 ## Contact
 If you have any questions about the code, please contact to cyy941027@126.com.
