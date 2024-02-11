@@ -34,6 +34,7 @@ The benchmark dataset can be downloaded  via Baidu Drive：https://pan.baidu.com
 
 ## Citation
 If you use this code for your research, please cite our paper:
+
 Y. Chen, G. Jiang, M. Yu, C. Jin, H. Xu, Y.-S. Ho, HDR light field imaging of dynamic scenes: a learning-based method and a bench
 mark dataset, Pattern Recognition, 150, Art. no.110313, 2024. 
 
