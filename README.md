@@ -21,10 +21,10 @@ This Project is a Pytorch implementation of HDRLFI
 ** Matlab  2017b (for training/test data generation and evaluation)
 
 ## Usage
-You can use the released code to train your own model or test the pre-trained model.
+You can use the released code to train or test your own model.
 
 1. run 'train.py' to train your own model
-2. run 'test.py' to test the pre-trained model
+2. run 'test.py' to test the trained model
 
 ## Example of our benchmark dataset
 
